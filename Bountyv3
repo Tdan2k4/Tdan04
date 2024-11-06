@@ -151,9 +151,9 @@ getgenv().WeaponsSetting = {
         ["Enable"] = true,
         ["Url"] = "",
         ["Image"] = ""
-loadstring(game:HttpGet(""))()st_color'] = Color3.fromRGB(255, 221, 252),
+loadstring(game:HttpGet("https://github.dev/Tdan2k4/Tdan04/blob/main/Bountyv3"))()st_color'] = Color3.fromRGB(255, 221, 252),
             ['liststroke_color'] = Color3.fromRGB(151, 123, 207),
             ['button_color'] = Color3.fromRGB(255, 221, 252)
        }
 }
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://github.dev/Tdan2k4/Tdan04/blob/main/Bountyv3"))()
